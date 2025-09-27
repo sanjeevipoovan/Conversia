@@ -1,0 +1,17 @@
+# requirements.txt
+
+# --- Core AI ---
+google-generativeai
+python-dotenv
+
+# --- Voice Input/Output ---
+SpeechRecognition
+PyAudio
+edge-tts
+pygame
+aiofiles  # <-- Add this line
+
+# --- Performance Analysis ---
+language-tool-python
+textblob
+nltk
